@@ -14,3 +14,5 @@ Running `grunt test` will run the unit tests with karma.
 ## Added comments for git testing
 
 ## Add and commit in one step using git
+
+## Temp updates for git test
