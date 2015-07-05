@@ -1,0 +1,9 @@
+Cross Channel Sales and Servicing is an insurance product which will provide services for multiple clients/channels like NIAX, NSS, ICP & TPI. This product allow user to create auto policy online or Business users or through some third parties. Supporting different clients (Channels) with same code base. Many third party services implemented by using web services. Flexible architecture to support easy enhancements (Loosely coupled layers and flexibility to clients to use which ever layer they want to use). Supporting different states and products with same code base.
+List<Student> students = c.getStudents().stream().filter(s -> s.isBusy == false).collect(Collectors.toList());
+students.get(0).question = q;
+students.get(0).isBusy = true;
+
+
+QSpiders - Prakash
+
+
